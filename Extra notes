@@ -1,0 +1,6 @@
+enemy spawner:
+
+.have a empty object where all the code will be
+.have either a area around the object where the enemies will spawn or have the enemies spawn on the game object
+.have where the enemies spawn only a specific amount by possibly having a limit of how many enemies can the spwaner spawn.
+.
