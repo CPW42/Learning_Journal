@@ -45,3 +45,6 @@ tutoria 2:
 *the enemy time before disponing*
 1.https://discussions.unity.com/t/simple-timer/56201
 
+2.https://www.youtube.com/watch?v=SELTWo1XZ0c
+
+
