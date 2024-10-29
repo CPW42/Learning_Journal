@@ -39,3 +39,9 @@ reference i used for code of the script for the tutorials:
 
 tutorial 1:
 1.https://discussions.unity.com/t/how-to-rotate-the-camera-up-and-down-using-mouse-input/239201
+
+tutoria 2:
+
+*the enemy time before disponing*
+1.https://discussions.unity.com/t/simple-timer/56201
+
