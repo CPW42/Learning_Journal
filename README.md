@@ -3,8 +3,14 @@ My journal for programing
 
 idea for what the tutorials will be connected to:
 a similar doom mechanics from the first 2 games
+a simple start menu
+enemy following the player form the moment they are created
+a enemy spawner
+player projectiles
+
 
 tutorial 1:
+
 first person player movement similar to doom
 these are moving forwad and back to where the player is facing. 
 Moving left and right to where the player is facing.
@@ -23,7 +29,13 @@ things not needed to be included in the tutorial * these are not part of the tut
 player interacting with object
 player having a ridgid body 
 
+tutorial 2 *may change what im doing*:
+a enemy spawner
+have a spawning mechanic where it spawns a enemy. 
+have it where when a certain requirement is met it will stop spawning enemies or will spawn different enemies
+
 
 reference i used for code of the script for the tutorials:
+
 tutorial 1:
 1.https://discussions.unity.com/t/how-to-rotate-the-camera-up-and-down-using-mouse-input/239201
