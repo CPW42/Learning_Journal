@@ -37,7 +37,7 @@ have it where when a certain requirement is met it will stop spawning enemies or
 
 tutorial 3 
 
-a simple starting menu but inteade of using the mouse to navigate throw the menue its with the keyboard
+enemies shooting projectiles at the player
 
 
 reference i used for code of the script for the tutorials:
