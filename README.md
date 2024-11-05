@@ -30,9 +30,14 @@ player interacting with object
 player having a ridgid body 
 
 tutorial 2 *may change what im doing*:
+
 a enemy spawner
 have a spawning mechanic where it spawns a enemy. 
 have it where when a certain requirement is met it will stop spawning enemies or will spawn different enemies
+
+tutorial 3 
+
+a simple starting menu but inteade of using the mouse to navigate throw the menue its with the keyboard
 
 
 reference i used for code of the script for the tutorials:
