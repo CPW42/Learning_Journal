@@ -4,3 +4,10 @@ enemy spawner:
 .have either a area around the object where the enemies will spawn or have the enemies spawn on the game object
 .have where the enemies spawn only a specific amount by possibly having a limit of how many enemies can the spwaner spawn.
 .
+
+enemy shooting:
+
+.have the player know where the player location
+.have them shoot the player every certain time
+.have the projectiles be destoried when colliding with the player and the environment
+.
