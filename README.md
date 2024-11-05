@@ -47,4 +47,10 @@ tutoria 2:
 
 2.https://www.youtube.com/watch?v=SELTWo1XZ0c
 
+3.https://www.youtube.com/watch?v=cecD66fZ_4c
+
+4.https://www.youtube.com/watch?v=2PfJZtnfc_Q
+
+5.https://www.youtube.com/watch?v=ydjpNNA5804
+
 
