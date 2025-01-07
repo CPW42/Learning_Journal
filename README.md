@@ -58,4 +58,23 @@ tutoria 2:
 
 5.https://www.youtube.com/watch?v=ydjpNNA5804
 
+errors i encountered while making the code for the tutorials:
+1.
+
+2.On my second tutorial code there was no error or issue but I realised that the code was basicly identical to one from the tutorial I first watched to learn how to make the mechaninc.
+
+fix: the sollution was to look at other tutorials see how they did it and try to mix some parts to my script so its not copy and paste from the original video.
+
+ 3.while testing the code the script used to reset the limit counter was not reseting. The int value should have reverted back to zero but which would then let the enemies spawn agian. but instead it didn't reset which by by default the code would stop when the limit counter was equal or more to another in variable.
+
+ fix: to fix this error in the code I moved the if statement and line of code from the update function to the function which has most of the code. i don't fully understande how it worked but i think originally
+
+
+
+
+
+
+
+
+
 
