@@ -71,7 +71,9 @@ fix: the sollution was to look at other tutorials see how they did it and try to
 
  3.while testing the code the script used to reset the limit counter was not reseting. The int value should have reverted back to zero but which would then let the enemies spawn agian. but instead it didn't reset which by by default the code would stop when the limit counter was equal or more to another in variable.
 
- fix: to fix this error in the code I moved the if statement and line of code from the update function to the function which has most of the code. i don't fully understande how it worked but i think originally
+ fix: to fix this error in the code I moved the if statement and line of code from the update function to the function which has most of the code.
+
+ 4.When i was making the switch script for the hover support on the player i had a problem where the player would not switch back to 
 
 
 
