@@ -2,7 +2,11 @@ Tutorial folder:
 
 Tutorial 1:
 
+https://stulsbuac-my.sharepoint.com/:w:/g/personal/s4210507_lsbu_ac_uk/EVZRt3nV0TJLrKr736G6qeUBM8n3NdLUsIICU9Q_Aou8wQ?e=ONog5F
+
 Tutorial 2:
+
+https://stulsbuac-my.sharepoint.com/:w:/g/personal/s4210507_lsbu_ac_uk/EenkgbY3s7ZPoR0Q3_lZPFMBGcUx7H7hRH_gomejkZY_6Q?e=jTkCqu
 
 Tutorial 3:
 
