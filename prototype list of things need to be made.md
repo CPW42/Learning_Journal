@@ -6,4 +6,4 @@ List of things I want to include in the prototype.
 4. make a limit on how many times you can summon the support objects *done*
 5. make so when you die it resets the game. *done*
 6. make a door which only disappears when a requirement is met *done*
-7. make an enemy that will go to where the player is when in a area **done**
+7. make an enemy that will go to where the player is when in a area ***done***
