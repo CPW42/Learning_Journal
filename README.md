@@ -30,27 +30,34 @@ I Stared and finished the second tutorial in those two days. I decided to make a
 
 **12/11/2024 - 18/11/2024**
 
-I decided for my third tutorial I would make a enemy shooting at the player. This was simple to make but still took me two days to get it done.
+I decided for my third tutorial I would make a enemy shooting at the player. This was simple to make but still took me two days to get it done. the script I used was similar to one from a video with some changes as the video was to be used for a player and not a enemy. I tried to use something similar to the second tutorial with the IEnumerator but it didn't work. But I then figured out and learned to use something that would repeat the function which had most of the script.
 
 **19/11/2024 - 25/11/2024**
 
+For the last tutorial I decided to make two mechanincs similar to the ones from the Mega Man franchise. These were Rush coil and Rush Jet. The jump one was easy to make and learn by looking into code on the unity manual. However the hover one was the hardest to get done which is why it took me two days to get it finished. But in the end I was able to figure out something which worked.
 
 **26/11/2024**
 
+Since I was finished making the mechanics for each tutorial I decided to start working on the prototype. I first had to figure out what I was going to make. I then realised I could do a 3D first person platformer since that means I could use all the code I made for the tutorial in the prototype. So I first added every code to the prototype but instead of copying and pasting I wrote them so not to keep any thing that I didn't need.
 
 **3/12/2024**
 
+I Started testing every since mechanic I added last time to make sure everything was working correctly. Once I checked all the mechanics I started planning what I would need to add for the prototype.
 
 **10/12/2024**
+
 
 
 **17/12/2024**
 
 
+
 **20/12/2024**
 
 
+
 **6/1/2025 - 10/1/2025**
+
 
 
 # Errors while making the Tutorials:
