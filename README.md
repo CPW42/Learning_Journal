@@ -62,31 +62,56 @@ On the first two days i finished the prototype. I fixed all the errors and issue
 
 # Errors while making the Tutorials:
 
-1.
+1. This two small issues but while making the first tutorial I notice that the player was not woving correctly and that the camera would rotate too much in a way I didn't want.
 
-2.On my second tutorial code there was no error or issue but I realised that the code was basicly identical to one from the tutorial I first watched to learn how to make the mechaninc.
+Fix: For the first issue I didn't realise that instead of having it one part of the code say right it should have been saying forward. While for the second issue it was mostly due to the fact I was trying to make the camera rotate in two axis but I remembered that in Doom the player can't look up, so I removed that piece of code and it fixed the camera.
 
-fix: the sollution was to look at other tutorials see how they did it and try to mix some parts to my script so its not copy and paste from the original video.
+2.On my second tutorial code there was no error or issue but I realised that the code was basiclly identical to one from the tutorial I first watched to learn how to make the mechaninc.
 
- 3.while testing the code the script used to reset the limit counter was not reseting. The int value should have reverted back to zero but which would then let the enemies spawn agian. but instead it didn't reset which by by default the code would stop when the limit counter was equal or more to another in variable.
+Fix: The solution was to look at other tutorials see how they did it and try to mix some parts to my script so its not copy and paste from the original video.
 
- fix: to fix this error in the code I moved the if statement and line of code from the update function to the function which has most of the code.
+ 3.While testing the code For the second tutorial the limit counter was not reseting. The int value should have reverted back to zero but which would then let the enemies spawn again. but instead it didn't reset which by  default the code would stop when the limit counter was equal or more to another in variable.
 
- 4.When i was making the switch script for the hover support on the player i had a problem where the player would not switch back to 
+ Fix: To fix this error in the code I moved the if statement and line of code from the update function to the function which has most of the code.
+
+ 4.When I was testing the mechanics for the supports I notice that when the player would collide with the hover object to switch the player to different movement controls, nothing was happening and it game me an error.
+
+ Fix: The reason it wasn't working was because the code was working if the hover object was already on the scene and not a prefab. So to fix this issue I changed the script so it looked for the hidden game object with a specific name which was parented to the player and would then connect to the other script fixing the issue.
+
+5.While trying to make the script for the third tutorial
 
 # Errors while making the Prototype:
 
 1.The player attack was giving an error even if it was working fine.
 
-fix: Altered the code so it gets the enemies health script when colliding instead of when is created/awakened.
+Fix: Altered the code so it gets the enemies health script when colliding instead of when is created/awakened.
 
-2.there were errors with the walking enemy script causing it to not moving towards the player when created and not interacting with the support script.
+2.There were errors with the walking enemy script causing it to not moving towards the player when created and not interacting with the support script.
 
-fix: I made so it looks for the player object by the tag it has, and did a similar thing to the enemy script.
-
-
+Fix: I made so it looks for the player object by the tag it has, and did a similar thing to the enemy script.
 
 
+3. When I was testing the level I noticed I was getting error messages each time the players projectile collided with the ground or was created.
 
+Fix: I realised that each time it was created the projectile code would always look for the enemy health script even if there was no enemies. So to fix this i seperated the line of code where it looked for the enemy and added the part that looked for the script in the collision function which fixed it.
+
+
+4. When the enemy that shoot at the player were created they wouldn't rotate towards the players position and i would get an error message of not finding the player.
+
+Fix: To fix this edit the code where a second game object called target would find the player by looking for the tag and then give the position to a different variable.
+
+
+5. An error which was not a code error was that when test the level once the enemy spawning emtpy game object was created the enemies it should have spawned were not spawning correctly.
+
+Fix: The reason for this was the code were spawning them where the range was at the center of the scene. To fix this issue was to have the numbers be around the same location to where the spawner will be created.
+
+
+6. When i was testing the creation of the following enemies with the spawner I noticed that they were not following towards the player. This hasn't happen before but only when I was using the prefab version of the enemy and not one that was already in the scene.
+
+Fix: I realised that the code for those enemies was only working if they were already in the scene and not created while the game was playing. To fix this I changed the code where it once is created it look for the tag which the player has. This was similar to the enemies that shoot.
+
+7.
+
+Fix:
 
 
