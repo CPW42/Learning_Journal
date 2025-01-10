@@ -20,19 +20,19 @@ If you see that tere are two braches, the one called "Main" one is a outdated ve
 
 # Dates and Info:
 
-**29/10/2024 - 4/11/2024**
+**29/10/2024 and 4/11/2024**
 
 I Started making the first tutorial which was going to be a simple player movement. there were many problems but working on the second day i was able to fix them. these errors include the player not moving correctly after doing the code for the player movement and the camera rotating in a axis it was not supposed to.
 
-**5/11/2024 - 11/11/2024**
+**5/11/2024 and 11/11/2024**
 
 I Stared and finished the second tutorial in those two days. I decided to make a enemy spawning system as something new that I had never done before unlike with the previous tutorial. I first followed one tutorial to make the code. there were some minur errors but it worked in the end. But unfortenatly the code was basicly identical to the one from the video so on the second day I worked on the tutorial I looked at other videos and information online to find what I could add. This lead to many issues as using different tutorials into one script doesn't work all of the time. But i was able to get something working which I liked and wasn't a exact copy of the first video.
 
-**12/11/2024 - 18/11/2024**
+**12/11/2024 and 18/11/2024**
 
 I decided for my third tutorial I would make a enemy shooting at the player. This was simple to make but still took me two days to get it done. the script I used was similar to one from a video with some changes as the video was to be used for a player and not a enemy. I tried to use something similar to the second tutorial with the IEnumerator but it didn't work. But I then figured out and learned to use something that would repeat the function which had most of the script.
 
-**19/11/2024 - 25/11/2024**
+**19/11/2024 and 25/11/2024**
 
 For the last tutorial I decided to make two mechanincs similar to the ones from the Mega Man franchise. These were Rush coil and Rush Jet. The jump one was easy to make and learn by looking into code on the unity manual. However the hover one was the hardest to get done which is why it took me two days to get it finished. But in the end I was able to figure out something which worked.
 
@@ -42,23 +42,23 @@ Since I was finished making the mechanics for each tutorial I decided to start w
 
 **3/12/2024**
 
-I Started testing every since mechanic I added last time to make sure everything was working correctly. Once I checked all the mechanics I started planning what I would need to add for the prototype.
+I Started testing every since mechanic I added last time to make sure everything was working correctly. Once I checked all the mechanics I started planning what I would need to add for the prototype. The first thing on the list I started to make was an enemy which would follow the player the moment they were created. I first tried to make it without using a NavAgent but realised I would need it. I also made a health system for the player and had so it would be showned on the top left of the screen. It had so if a projectile or a enemy collided with me my health would decrease by one.
 
 **10/12/2024**
 
-
+I finished the enemy following the player code have tested to see if it worked correctly. I then started to make a enemy health system which would let the player kill them by shooting projectiles similart to how some enemies do.
 
 **17/12/2024**
 
-
+I fixed some things and started to add a limit system that would limit how many support mechanics i could create. I also started to add so when the player killed a enemy the amout you increase by one maxing a five.
 
 **20/12/2024**
 
+I didn't do a lot compared to other days but I did create a specific spawning system and a gate mechanic which one will let me create any of the two enemies in two locations and make the enemy spawner, while the other is to be used to block the player form progressing until all enemies have spawned. In addition, I also added two text objects in the UI showing the amount of each item the player has.
 
+**6/1/2025 to 10/1/2025**
 
-**6/1/2025 - 10/1/2025**
-
-
+On the first two days i finished the prototype. I fixed all the errors and issues that each code was having each time I tested the level. I made sure that everything was working as intended and nothing would break. One of those fixes was changing many of the code to where it correctly checked for the player or other things as the code worked if the objects were on the levels but not as prefabs. I tested the game before recording for the video even adding a beggining and ending scene to show the controls and to know when to stop recording.
 
 # Errors while making the Tutorials:
 
