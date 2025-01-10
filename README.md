@@ -42,27 +42,9 @@ enemies shooting projectiles at the player
 
 reference i used for code of the script for the tutorials:
 
-tutorial 1:
-1.https://discussions.unity.com/t/how-to-rotate-the-camera-up-and-down-using-mouse-input/239201
 
-tutoria 2:
+Tutorials:
 
-*the enemy time before disponing*
-1.https://discussions.unity.com/t/simple-timer/56201
-
-2.https://www.youtube.com/watch?v=SELTWo1XZ0c
-
-3.https://www.youtube.com/watch?v=cecD66fZ_4c
-
-4.https://www.youtube.com/watch?v=2PfJZtnfc_Q
-
-5.https://www.youtube.com/watch?v=ydjpNNA5804
-
-3:
-
-1.https://www.youtube.com/watch?v=6Ai0xg6xTUk
-
-errors i encountered while making the code for the tutorials:
 1.
 
 2.On my second tutorial code there was no error or issue but I realised that the code was basicly identical to one from the tutorial I first watched to learn how to make the mechaninc.
@@ -75,8 +57,15 @@ fix: the sollution was to look at other tutorials see how they did it and try to
 
  4.When i was making the switch script for the hover support on the player i had a problem where the player would not switch back to 
 
+Prototype
 
+1.The player attack was giving an error even if it was working fine.
 
+fix: Altered the code so it gets the enemies health script when colliding instead of when is created/awakened.
+
+2.there were errors with the walking enemy script causing it to not moving towards the player when created and not interacting with the support script.
+
+fix: I made so it looks for the player object by the tag it has, and did a similar thing to the enemy script.
 
 
 
