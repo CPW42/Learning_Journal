@@ -8,6 +8,16 @@ enemy following the player form the moment they are created
 a enemy spawner
 player projectiles
 
+Notes, Lists and Refences are all in diferent files.
+
+I decided to save my progress in the tutorial and prototype differerntly. The tutorials are all in packages which can be seen. while the Game prototype is saved in a different repository.
+
+link to the prototype github:
+
+https://github.com/CPW42/UnityProjectJoao/tree/Version2Prototype
+
+if you see that tere are two braches, the one called "Main" one is a outdated version of the prototype the one called "Version"Prototype" is the current version. 
+
 # Dates and Info:
 
 **29/10/2024 - 4/11/2024**
