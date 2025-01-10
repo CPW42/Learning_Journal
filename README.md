@@ -8,42 +8,18 @@ enemy following the player form the moment they are created
 a enemy spawner
 player projectiles
 
+# Dates and Info:
 
-tutorial 1:
+**29/10/2024 - 4/11/2024**
 
-first person player movement similar to doom
-these are moving forwad and back to where the player is facing. 
-Moving left and right to where the player is facing.
-having the player only move the camera form left and right and not up and down.
-hiving the player be able to dash with a press of a button.
+I Started making the first tutorial which was going to be a simple player movement. there were many problems but working on the second day i was able to fix them. these errors include the player not moving correctly after doing the code for the player movement and the camera rotating in a axis it was not supposed to.
 
-notes and things to remember about the code:
-.the main player only the main camera.
-.for the player movement both side and forward movement use similar script with the only difference being if it says right or forward after the vector3.
-.there are two floats which are used for the dash code in the player movement script. these two are the "speedDash" and "originalSpeed". in addition there is a float used 
-.when the script is first started it first locks the cursor so it can't be moved out of the game. the originalSpeed float becomes equal to the value of the speed float. and the speedDash float has the its number become the double of the speed float.
-.for the camera movement its similar to the other tow scripts but instead it rotates the camera in the x axis by following the cursor.
-.for the dash code in the script it simply changes the value of the speed float to the speed dash foalt when pressed and then to the original speed float after the key is released.
+**5/11/2024 - 11/11/2024**
 
-things not needed to be included in the tutorial * these are not part of the tutorial but just so i could test the script to see if it works correctly with ridgid body*:
-player interacting with object
-player having a ridgid body 
-
-tutorial 2 *may change what im doing*:
-
-a enemy spawner
-have a spawning mechanic where it spawns a enemy. 
-have it where when a certain requirement is met it will stop spawning enemies or will spawn different enemies
-
-tutorial 3 
-
-enemies shooting projectiles at the player
+I Stared and finished the second tutorial in those two days. I decided to make a enemy spawning system as something new that I had never done before unlike with the previous tutorial. I first followed one tutorial to make the code. there were some minur errors but it worked in the end. But unfortenatly the code was basicly identical to the one from the video so on the second day I worked on the tutorial I looked at other videos and information online to find what I could add. This lead to many issues as using different tutorials into one script doesn't work all of the time. But i was able to get something working which I liked and wasn't a exact copy of the first video.
 
 
-reference i used for code of the script for the tutorials:
-
-
-Tutorials:
+# Errors while making the Tutorials:
 
 1.
 
@@ -57,7 +33,7 @@ fix: the sollution was to look at other tutorials see how they did it and try to
 
  4.When i was making the switch script for the hover support on the player i had a problem where the player would not switch back to 
 
-Prototype
+# Errors while making the Prototype:
 
 1.The player attack was giving an error even if it was working fine.
 
