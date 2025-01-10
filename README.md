@@ -16,7 +16,7 @@ link to the prototype github:
 
 https://github.com/CPW42/UnityProjectJoao/tree/Version2Prototype
 
-if you see that tere are two braches, the one called "Main" one is a outdated version of the prototype the one called "Version"Prototype" is the current version. 
+If you see that tere are two braches, the one called "Main" one is a outdated version of the prototype the one called "Version"Prototype" is the current version. 
 
 # Dates and Info:
 
@@ -27,6 +27,30 @@ I Started making the first tutorial which was going to be a simple player moveme
 **5/11/2024 - 11/11/2024**
 
 I Stared and finished the second tutorial in those two days. I decided to make a enemy spawning system as something new that I had never done before unlike with the previous tutorial. I first followed one tutorial to make the code. there were some minur errors but it worked in the end. But unfortenatly the code was basicly identical to the one from the video so on the second day I worked on the tutorial I looked at other videos and information online to find what I could add. This lead to many issues as using different tutorials into one script doesn't work all of the time. But i was able to get something working which I liked and wasn't a exact copy of the first video.
+
+**12/11/2024 - 18/11/2024**
+
+I decided for my third tutorial I would make a enemy shooting at the player. This was simple to make but still took me two days to get it done.
+
+**19/11/2024 - 25/11/2024**
+
+
+**26/11/2024**
+
+
+**3/12/2024**
+
+
+**10/12/2024**
+
+
+**17/12/2024**
+
+
+**20/12/2024**
+
+
+**6/1/2025 - 10/1/2025**
 
 
 # Errors while making the Tutorials:
