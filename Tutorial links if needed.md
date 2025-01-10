@@ -1,6 +1,7 @@
 Tutorial 1:
 
 https://discussions.unity.com/t/how-to-rotate-the-camera-up-and-down-using-mouse-input/239201
+
 https://github.com/LSBUGPG/movement-tutorial?tab=readme-ov-file
 
 
